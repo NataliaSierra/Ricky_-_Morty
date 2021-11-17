@@ -94,7 +94,17 @@ footer {
 
 h3{
     color: #fff;
-    font-size: 16px;
+    font-size: 21px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+h2{
+    color: #ffffff;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    color: #598ccf;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
